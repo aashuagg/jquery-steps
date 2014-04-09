@@ -143,10 +143,9 @@
     display: block;
     margin: 0.5em;
     min-height: 35em;
-    overflow: hidden;
+    overflow-y: auto;
     position: relative;
     width: auto;
-    height: auto;
 
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
