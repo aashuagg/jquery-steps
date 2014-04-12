@@ -3,6 +3,6 @@
   "description": "jQuery wizard dialog by Rafael Staib, repackaged for Meteor.",
   "homepage": "https://github.com/aashuagg/jquery-steps",
   "author": "Aashu",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "git": "https://github.com/aashuagg/jquery-steps.git"
 }
